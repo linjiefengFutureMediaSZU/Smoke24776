@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>03707.jpg</filename>
+		<size>
+			<width>1807</width>
+			<height>869</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>smoke</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>1090</xmin>
+				<ymin>611</ymin>
+				<xmax>1202</xmax>
+				<ymax>695</ymax>
+			</bndbox>
+		</object>
+	</annotation>
