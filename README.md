@@ -32,7 +32,7 @@
 ## 3. 完整数据集图像获取方式
 |    | 链接 |密码|
 |:---|:----:|---:|
-|百度网盘| [链接](https://pan.baidu.com/s/1Ut5p-R6YBcTeHgrNHXnK9w?pwd=unv5) | unv5 |
+|百度网盘| [链接](https://pan.baidu.com/s/19hBmTecDicXTmkRSCaET9Q?pwd=w3e4) | w3e4 |
 |阿里云|待上传|/|
 |Google Drive|待上传|/|
 ## 4. 注意事项
