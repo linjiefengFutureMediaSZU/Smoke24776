@@ -32,13 +32,13 @@
 ## 3. 完整数据集图像获取方式
 |    | 链接 |密码|
 |:---|:----:|---:|
-|百度网盘| [链接](https://pan.baidu.com/s/1Y3h3w3w3w3w3w3w3w3w3w) | 1234 |
+|百度网盘| [链接](https://pan.baidu.com/s/1Ut5p-R6YBcTeHgrNHXnK9w?pwd=unv5) | unv5 |
 |阿里云|待上传|/|
 |Google Drive|待上传|/|
 ## 4. 注意事项
 - 对于此数据集，本仓库只包含COCO格式、VOC格式和YOLO格式的标注文件，图像数据需要通过链接下载。
 - 除了这三种格式的数据集，本仓库还有根据场景将数据集分为Aerial、Complex、Dense、Indoor、Outdoor和Simulated六种类型，图像数据同样包含在下载链接中。
-- 由于 GitHub 存储限制，仓库仅包含示例图像，完整 24776 张图像需从阿里云盘、百度网盘或 Google Drive 等外部链接下载（详见 上方）。
+- 由于 GitHub 存储限制，仓库仅包含示例图像，完整 24776 张图像需从阿里云盘、百度网盘或 Google Drive 等外部链接下载（详见上方）。
 - 对于VOC格式的数据集，请自己进行划分训练集、验证集、测试集。
 - 本数据集（Smoke24776）基于 MIT 协议开源，允许非商业与商业场景使用，但需在衍生作品或研究成果中保留原版权声明（标注 “Copyright (c) 2024 Jiefeng Lin, Chenlin Fu, Qiang Huang, Yingying Zhu of Research Institute for Future Media Computing, Shenzhen University”），禁止移除或修改数据集中的版权信息。
 - 禁止将数据集用于恶意用途，包括但不限于虚假火灾预警系统开发、未经授权的隐私场景监控、生成误导性视觉内容等，若违反此规范，需承担相应法律责任。 
@@ -47,10 +47,10 @@ Jiefeng Lin, Chenlin Fu, Qiang Huang, Yingying Zhu. Contextual Interaction Enhan
 ## 6. 开源协议
 本数据集、标注文件及配套代码基于MIT License开源，详情见LICENSE文件。
 ## 7. 联系方式
-主要联系人：Jiefeng Lin（jayphonepersonal@gmail.com）
-通讯作者：Yingying Zhu（zyyszu@gmail.com）
-问题反馈：GitHub Issues（优先）或上述邮箱
-本工作得到以下项目资助：
-国家自然科学基金（62072318、U22A2079）
-广东省教育厅重点项目（2023ZDZX1016）
-深圳市科技计划项目（20220810142553001）
+- 主要联系人：Jiefeng Lin（jayphonepersonal@gmail.com）
+- 通讯作者：Yingying Zhu（zyyszu@gmail.com）
+- 问题反馈：GitHub Issues（优先）或上述邮箱
+- 本工作得到以下项目资助：
+- 国家自然科学基金（62072318、U22A2079）
+- 广东省教育厅重点项目（2023ZDZX1016）
+- 深圳市科技计划项目（20220810142553001）
