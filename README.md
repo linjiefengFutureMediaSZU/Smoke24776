@@ -33,8 +33,8 @@
 |    | 链接 |密码|
 |:---|:----:|---:|
 |百度网盘| [链接](https://pan.baidu.com/s/19hBmTecDicXTmkRSCaET9Q?pwd=w3e4) | w3e4 |
-|阿里云|[链接](https://pan.baidu.com/s/19hBmTecDicXTmkRSCaET9Q?pwd=w3e4)|/|
-|Google Drive|待上传|/|
+|阿里云|待上传|/|
+|Google Drive|[链接](https://drive.google.com/drive/folders/1FiZJ47TS-Ac0mBOfNGM2RChsNcGEXxVl?usp=drive_link)|/|
 ## 4. 注意事项
 - 对于此数据集，本仓库只包含COCO格式、VOC格式和YOLO格式的标注文件，图像数据需要通过链接下载。
 - 除了这三种格式的数据集，本仓库还有根据场景将数据集分为Aerial、Complex、Dense、Indoor、Outdoor和Simulated六种类型，图像数据同样包含在下载链接中。
