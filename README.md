@@ -38,8 +38,8 @@
 ## 4. 注意事项
 - 对于此数据集，本仓库只包含COCO格式、VOC格式和YOLO格式的标注文件，图像数据需要通过链接下载。
 - 除了这三种格式的数据集，本仓库还有根据场景将数据集分为Aerial、Complex、Dense、Indoor、Outdoor和Simulated六种类型，图像数据同样包含在下载链接中。
-- 由于 GitHub 存储限制，仓库仅包含示例图像，完整 24776 张图像需从阿里云盘、百度网盘或 Google Drive 等外部链接下载（详见 上方），下载后需按 “解压说明” 将图像文件夹覆盖至仓库对应路径。
-- 对于VOC格式的数据集，请自己进行划分。
+- 由于 GitHub 存储限制，仓库仅包含示例图像，完整 24776 张图像需从阿里云盘、百度网盘或 Google Drive 等外部链接下载（详见 上方）。
+- 对于VOC格式的数据集，请自己进行划分训练集、验证集、测试集。
 - 本数据集（Smoke24776）基于 MIT 协议开源，允许非商业与商业场景使用，但需在衍生作品或研究成果中保留原版权声明（标注 “Copyright (c) 2024 Jiefeng Lin, Chenlin Fu, Qiang Huang, Yingying Zhu of Research Institute for Future Media Computing, Shenzhen University”），禁止移除或修改数据集中的版权信息。
 - 禁止将数据集用于恶意用途，包括但不限于虚假火灾预警系统开发、未经授权的隐私场景监控、生成误导性视觉内容等，若违反此规范，需承担相应法律责任。 
 ## 5. 引用方式
